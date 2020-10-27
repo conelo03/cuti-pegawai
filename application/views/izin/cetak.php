@@ -895,9 +895,9 @@ $get_jabatan_atasan = $this->db->get_where('jabatan', ['jabatan_id' => $get_atas
   <td width=350 valign=top style='width:262.2pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-top:4.0pt;margin-right:0cm;margin-bottom:
   4.0pt;margin-left:0cm;line-height:150%'><span class=SpellE><span
-  style='font-size:12.0pt;line-height:150%;font-family:"Bookman Old Style",serif'>Pengadilan</span></span><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Bookman Old Style",serif'>Badan Kepegawaian</span></span><span
   style='font-size:12.0pt;line-height:150%;font-family:"Bookman Old Style",serif'>
-  Agama <span class=SpellE>Amurang</span><o:p></o:p></span></p>
+  Daerah <span class=SpellE>Brebes</span><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:7'>

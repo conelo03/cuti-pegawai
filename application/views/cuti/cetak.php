@@ -200,7 +200,7 @@ div.WordSection1
   <p class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;margin-bottom:
   3.0pt;margin-left:0cm;line-height:normal"><span class="SpellE"><span style="font-size:9.0pt;font-family:&quot;Bookman Old Style&quot;,serif">Kepada</span></span><span style="font-size:9.0pt;font-family:&quot;Bookman Old Style&quot;,serif"><o:p></o:p></span></p>
   <p class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;margin-bottom:
-  3.0pt;margin-left:0cm;line-height:normal"><span class="SpellE"><b><span style="font-size:9.0pt;font-family:&quot;Bookman Old Style&quot;,serif">Yth</span></b></span><b><span style="font-size:9.0pt;font-family:&quot;Bookman Old Style&quot;,serif">, <span class="SpellE">Ketua</span> <span class="SpellE">Pengadilan</span> Agama <span class="SpellE">Amurang</span><o:p></o:p></span></b></p>
+  3.0pt;margin-left:0cm;line-height:normal"><span class="SpellE"><b><span style="font-size:9.0pt;font-family:&quot;Bookman Old Style&quot;,serif">Yth</span></b></span><b><span style="font-size:9.0pt;font-family:&quot;Bookman Old Style&quot;,serif">, <span class="SpellE">Ketua</span> <span class="SpellE">Badan Kepegawaian</span> Daerah <span class="SpellE">Brebes</span><o:p></o:p></span></b></p>
   <p class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;margin-bottom:
   3.0pt;margin-left:0cm;line-height:normal"><span style="font-size:9.0pt;
   font-family:&quot;Bookman Old Style&quot;,serif">Di <span class="SpellE">Tempat</span>.<o:p></o:p></span></p>
@@ -301,8 +301,7 @@ div.WordSection1
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt">
-  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Bookman Old Style&quot;,serif">PENGADILAN
-  AGAMA AMURANG<o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:9.0pt;font-family:&quot;Bookman Old Style&quot;,serif">BADAN KEPEGAWAIAN DAERAH BREBES<o:p></o:p></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
