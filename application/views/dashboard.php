@@ -9,7 +9,7 @@
 
     <div class="section-header">
       <h6>Selamat Datang di Aplikasi Elektronik Ijin dan Cuti (E-ICUT)<br/><br/>
-        Aplikasi ini bertujuan mempermudah Proses Perizinan dan Cuti bagi seluruh Pimpinan dan Staf di Lingkungan Kerja Pengadilan Agama Amurang. Harapannya kedepan seluruh Sistem Kepegawaian dapat memanfaatkan Teknologi Informasi.
+        Aplikasi ini bertujuan mempermudah Proses Perizinan dan Cuti bagi seluruh Pimpinan dan Staf di Lingkungan Kerja Badan Kepegawaian Daerah Brebes. Harapannya kedepan seluruh Sistem Kepegawaian dapat memanfaatkan Teknologi Informasi.
       </h6>
     </div>
   <?php if(!is_staf()): ?>

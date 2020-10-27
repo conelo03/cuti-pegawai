@@ -54,7 +54,7 @@
                   </div>
                 </form>
                 <div class="simple-footer mb-0">
-                  Copyright 2020 Pengadilan Agama Amurang
+                  Copyright 2020 Badan Kepegawaian Daerah Brebes
                 </div>
               </div>
             </div>

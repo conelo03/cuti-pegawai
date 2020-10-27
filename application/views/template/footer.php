@@ -1,6 +1,6 @@
       <footer class="main-footer">
         <div class="footer-left">
-          Copyright &copy; 2020 <div class="bullet"></div> Dibuat dan Dikembangkan oleh <a href="#">Pengadilan Agama Amurang</a>
+          Copyright &copy; 2020 <div class="bullet"></div> Dibuat dan Dikembangkan oleh <a href="#">Badan Kepegawaian Daerah Brebes</a>
         </div>
         <div class="footer-right">
           Version 1.1
